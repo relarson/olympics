@@ -250,3 +250,20 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# angular-cli gitignore
+node_modules/
+npm-debug.log
+
+.idea/
+jsconfig.json
+
+typings/
+
+tmp/
+
+**/.DS_Store
+.DS_Store
+
+# ignore dist files
+dist/
